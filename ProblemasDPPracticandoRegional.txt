@@ -1,0 +1,12 @@
+Programación dinámica preparación para la regional:
+729B
+La recursión no sé cual es jaja, lo que hice fue partir en casos unos resultados.
+entonces encontrar el primer 1 suma la posición.
+si esta en medio de dos 1 es la diferencia menos uno que se multiplica por dos.
+si estamos en la parte final si la ultima posicion es un 0, restamos la ultima posicion a donde se encuentra el
+anterior uno.
+
+998B
+encontramos todos los posibles puntos de corte y hacemos knapsack con utilidad 1. 
+
+
