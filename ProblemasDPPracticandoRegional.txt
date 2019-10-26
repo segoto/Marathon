@@ -13,4 +13,3 @@ Encontramos todos los posibles puntos de corte y hacemos knapsack con utilidad 1
 La idea se basa en obtener una matriz de actividades y encontrar la mayor suma posible (representan los días
 ocupados) siempre y cuando no se escojan numeros contiguos. Dado que queremos el mínimo número de descanso
 se debe restar el resultado obtenido con la cantidad de días.
-
